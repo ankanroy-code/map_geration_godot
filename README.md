@@ -1,5 +1,9 @@
 # map_geration_godot!
-![Screenshot from 2022-06-26 02-16-58](https://user-images.githubusercontent.com/58530461/175790054-c43a63f3-f9a0-44a4-be88-e42cdc7e8a01.png)
+gen-1
+![Screenshot from 2022-06-26 02-38-53](https://user-images.githubusercontent.com/58530461/175800303-40f4fdf4-79cc-4106-aa1c-67738ce23143.png)
+
+gen-50
+![Screenshot from 2022-06-26 02-38-08](https://user-images.githubusercontent.com/58530461/175800308-59057613-86e0-49e3-9767-dc210ca896d6.png)
 
 _only the root.gd is important_
 
