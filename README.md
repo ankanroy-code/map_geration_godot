@@ -1,5 +1,5 @@
 # map_geration_godot!
-gen-1
+gen-0
 ![Screenshot from 2022-06-26 02-38-53](https://user-images.githubusercontent.com/58530461/175800303-40f4fdf4-79cc-4106-aa1c-67738ce23143.png)
 
 gen-50
